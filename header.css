@@ -1,0 +1,54 @@
+.header-part{
+    padding-left:120px;
+    padding-right:120px;
+    display:flex;
+    column-gap:30px;
+}
+.first-div{
+    width:300px;
+    display:grid;
+    grid-template-columns:140px 145px;
+    column-gap:20px;
+}
+.licious-logo{
+    height:60px;
+    object-fit:contain;
+}
+.location-logo{
+    height:30px;
+    object-fit:contain;
+}
+.location-div{
+    display:flex;
+}
+.second-div{
+    align-items:center;
+    flex:1;
+    display:flex;
+}
+.search-bar{
+    width:340px;
+}
+.search-icon{
+    height:20px;
+}
+.third-div{
+    align-items:center;
+    width:400px;
+    display:flex;
+}
+
+.common-grid{
+    display:grid;
+    width:130px;
+    grid-template-columns:35px 1fr;
+}
+
+.pic{
+    width:100%;
+    height:24px;
+    object-fit:contain;
+}
+.button{
+    cursor:pointer;
+}

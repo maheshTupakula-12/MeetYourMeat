@@ -1,0 +1,13 @@
+.login{
+    padding-top:250px;
+    display:flex;
+    justify-content:center;
+}
+.actual{
+    padding-top:40px;
+    padding-bottom:50px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color:lightblue;
+    z-index:2;
+}

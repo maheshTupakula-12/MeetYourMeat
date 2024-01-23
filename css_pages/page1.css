@@ -1,0 +1,28 @@
+.menu{
+    padding-left:180px;
+    padding-right:180px;
+}
+.menu-items{
+    margin-top:30px;
+    display:grid;
+    column-gap:8px;
+    row-gap:14px;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.type1{
+    height:160px;
+}
+.bestsellers{
+    padding-left:180px;
+    padding-right:180px;
+}
+.best-items{
+    margin-top:30px;
+    display:grid;
+    column-gap:8px;
+    row-gap:14px;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+}
+.type2{
+    height:160px;
+}
